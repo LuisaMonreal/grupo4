@@ -35,7 +35,7 @@ int main()
         cout << "\nIngrese el descripcion del articulo\n";
         cin.ignore();
         getline(cin, descripcion);
-        
+        //falta agregar categoria,genero y e imprimir el impuesto y el total 
         cout << "\nIngrese el precio unitario del articulo\n";
         cin >> preciouni;
         
